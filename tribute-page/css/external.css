@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+#main {
+  
+}
+
+h1 {
+  text-align:center;
+}
+
+#img-div {
+  text-align:center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
